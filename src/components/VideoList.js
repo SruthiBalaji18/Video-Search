@@ -1,4 +1,4 @@
-//funnctional component
+//functional component
 //props holds the value sent by parent class and can be obtained using . operator
 //since we need only videos from props, we can directly mention them in {}, instead of props.videos
 import React from 'react';
